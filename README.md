@@ -3,8 +3,7 @@ Just use
 ```bash
 python3 rps.py
 ```
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+# Usage Video
 
-https://github.com/jessmathews/rock-paper-scissor-python-ghw/blob/main/video.mp4
+https://user-images.githubusercontent.com/81862618/235666098-988bc2c0-fedb-473d-8897-3d6ed387ee67.mp4
+

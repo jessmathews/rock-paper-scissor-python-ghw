@@ -7,4 +7,4 @@ python3 rps.py
   <source src="video.mp4" type="video/mp4">
 </video>
 
-![video](video.mp4)
+https://github.com/jessmathews/rock-paper-scissor-python-ghw/blob/main/video.mp4
